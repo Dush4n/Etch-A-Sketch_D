@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: #000000;
+  color: #d9d9d9;
+}
+
+h1, p {
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  top: 70px;
+  outline: none;
+  margin: auto;
+  height: 960px;
+  width: 960px;
+  background-color: white;
+  padding: 0;
+  border: none;
+}
+
+.grid {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  outline: 2px solid black;
+  display: inline-block;
+}
